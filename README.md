@@ -1,5 +1,19 @@
 # Getting Started
 
+### Project Introduction
+This  demonstration was implemented as a spring boot project. Once you start the application, there are two endpoints you can reach: 
+
+GET - /inventory 
+
+POST - /rental - an example body looks something like this
+
+{
+"toolCode": "JAKR",
+"checkOutDate": "7/2/20",
+"durationInDays": 4,
+"discountPercentage": 50
+}
+
 ### Reference Documentation
 
 For further reference, please consider the following sections:

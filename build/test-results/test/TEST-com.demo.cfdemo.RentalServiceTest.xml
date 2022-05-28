@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.demo.cfdemo.RentalServiceTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2022-05-28T17:14:19" hostname="NEWTON" time="0.023">
+  <properties/>
+  <testcase name="processRental_laborDayHoliday_countsAsUnchargedDay()" classname="com.demo.cfdemo.RentalServiceTest" time="0.011"/>
+  <testcase name="processRental_OutOfRangeDuration_throwsException()" classname="com.demo.cfdemo.RentalServiceTest" time="0.001"/>
+  <testcase name="processRental_July4Holiday_observedHolidayAsUnchargedDay()" classname="com.demo.cfdemo.RentalServiceTest" time="0.0"/>
+  <testcase name="processRental_OutOfRangeDiscount_throwsException()" classname="com.demo.cfdemo.RentalServiceTest" time="0.0"/>
+  <testcase name="processRental_July4Holiday_countsAsUnchargedDay()" classname="com.demo.cfdemo.RentalServiceTest" time="0.001"/>
+  <testcase name="processRental_Test1()" classname="com.demo.cfdemo.RentalServiceTest" time="0.0"/>
+  <testcase name="processRental_Test2()" classname="com.demo.cfdemo.RentalServiceTest" time="0.001"/>
+  <testcase name="processRental_Test3()" classname="com.demo.cfdemo.RentalServiceTest" time="0.001"/>
+  <testcase name="processRental_Test4()" classname="com.demo.cfdemo.RentalServiceTest" time="0.001"/>
+  <testcase name="processRental_Test5()" classname="com.demo.cfdemo.RentalServiceTest" time="0.001"/>
+  <testcase name="processRental_Test6()" classname="com.demo.cfdemo.RentalServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
